@@ -16,6 +16,14 @@
   education1: Deep learning
   education2: Human pose estimation
 
+- name: Gursimran Singh
+  photo: simar.jpg
+  info: Master Student
+  email: msiamr@cs.ubc.ca 
+  webpage: http://gursimar.github.io/
+  number_educ: 2
+  education1: Video understanding
+  education2: Deep learning
 
 - name: "This could be you !"
   photo: rock.jpg
