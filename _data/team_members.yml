@@ -24,6 +24,15 @@
   number_educ: 2
   education1: Video understanding
   education2: Deep learning
+  
+- name: Weidong Yin
+  photo:weidong.jpg
+  info: Master Student
+  email:wdyin@cs.ubc.ca
+  webpage:https://scholar.google.ca/citations?user=kHblmyAAAAAJ&hl=en
+  number:educ:2
+  education1: Generative Models
+  education2: Face Synthesis and Manipulation
 
 - name: "This could be you !"
   photo: rock.jpg
